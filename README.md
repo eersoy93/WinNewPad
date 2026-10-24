@@ -1,5 +1,5 @@
 # WinNewPad
-An old Wordpad-like word processor written with C and Windows API.
+An old Wordpad-like word processor written with C and Windows API. GitHub Copilot was used.
 
 ## Features
 
